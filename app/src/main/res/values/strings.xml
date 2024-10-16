@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">PracticaExamen</string>
+    <string name="str_paises">Paises:</string>
+    <string name="btn_españa">España</string>
+    <string name="btn_alemania">Alemania</string>
+    <string name="btn_italia">Italia</string>
+    <string-array name="sp_españa">
+        <item>Madrid</item>
+        <item>Barcelona</item>
+        <item>Sevilla</item>
+    </string-array>
+    <string-array name="sp_alemania">
+        <item>Baviera</item>
+        <item>Hesse</item>
+        <item>Sajonia</item>
+    </string-array>
+    <string-array name="sp_italia">
+        <item>Roma</item>
+        <item>Milan</item>
+        <item>Florencia</item>
+    </string-array>
+    <string name="cb_negrita">Negrita</string>
+    <string name="cb_cursiva">Cursiva</string>
+    <string name="str_valoracion">Valoración</string>
+    <string name="sw_modoOscuro">Activar modo oscuro</string>
+    <!-- Strings de botones de Madrid -->
+    <string name="rb_madridCapital">Madrid(Capital)</string>
+    <string name="rb_alcalaDeHenares">Alcalá de Henares</string>
+    <string name="rb_getafe">Getafe</string>
+    <string name="rb_leganes">Leganés</string>
+    <string name="rb_mostoles">Móstoles</string>
+    <string name="rb_alcorcon">Alcorcón</string>
+
+    <!-- Strings de botones de Barcelona -->
+    <string name="rb_barcelonaCapital">Barcelona(Capital)</string>
+    <string name="rb_hospitaletDeLlobregat">Hospitalet de Llobregat</string>
+    <string name="rb_badalona">Badalona</string>
+    <string name="rb_terrassa">Terrassa</string>
+    <string name="rb_sabadell">Sabadell</string>
+    <string name="rb_manresa">Manresa</string>
+
+    <!-- Strings de botones de Sevilla -->
+    <string name="rb_sevillaCapital">Sevilla(Capital)</string>
+    <string name="rb_dosHermanas">Dos Hermanas</string>
+    <string name="rb_alcalaDeGuadaira">Alcalá de Guadaíra</string>
+    <string name="rb_utrera">Utrera</string>
+    <string name="rb_mairenaDelAljarafe">Mairena del Aljarafe</string>
+    <string name="rb_ecija">Écija</string>
+
+    <!-- Strings de botones de Baviera -->
+    <string name="rb_munich">Múnich</string>
+    <string name="rb_nuremberg">Núremberg</string>
+    <string name="rb_augsburgo">Augsburgo</string>
+    <string name="rb_ratisbona">Ratisbona</string>
+    <string name="rb_wurzburgo">Wurzburgo</string>
+    <string name="rb_ingolstadt">Ingolstadt</string>
+
+    <!-- Strings de botones de Hesse -->
+    <string name="rb_francfort">Fráncfort</string>
+    <string name="rb_wiesbaden">Wiesbaden</string>
+    <string name="rb_kassel">Kassel</string>
+    <string name="rb_darmstadt">Darmstadt</string>
+    <string name="rb_offenbach">Offenbach</string>
+    <string name="rb_hanau">Hanau</string>
+
+    <!-- Strings de botones de Sajonia -->
+    <string name="rb_dresde">Dresde</string>
+    <string name="rb_leipzig">Leipzig</string>
+    <string name="rb_chemnitz">Chemnitz</string>
+    <string name="rb_zwickau">Zwickau</string>
+    <string name="rb_gorlitz">Görlitz</string>
+    <string name="rb_plauen">Plauen</string>
+
+    <!-- Strings de botones de Roma -->
+    <string name="rb_romaCapital">Roma(Capital)</string>
+    <string name="rb_tivoli">Tivoli</string>
+    <string name="rb_frascati">Frascati</string>
+    <string name="rb_civitavecchia">Civitavecchia</string>
+    <string name="rb_castelGandolfo">Castel Gandolfo</string>
+    <string name="rb_bracciano">Bracciano</string>
+
+    <!-- Strings de botones de Milán -->
+    <string name="rb_milanoCapital">Milano(Capital)</string>
+    <string name="rb_sestoSanGiovanni">Sesto San Giovanni</string>
+    <string name="rb_rho">Rho</string>
+    <string name="rb_ciniselloBalsamo">Cinisello Balsamo</string>
+    <string name="rb_sanDonatoMilanese">San Donato Milanese</string>
+    <string name="rb_legnano">Legnano</string>
+
+    <!-- Strings de botones de Florencia -->
+    <string name="rb_florenciaCapital">Florencia(Capital)</string>
+    <string name="rb_fiesole">Fiesole</string>
+    <string name="rb_empoli">Empoli</string>
+    <string name="rb_pontassieve">Pontassieve</string>
+    <string name="rb_bagnoARipoli">Bagno a Ripoli</string>
+    <string name="rb_sestoFiorentino">Sesto Fiorentino</string>
+</resources>

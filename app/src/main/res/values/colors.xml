@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="strMenor2">#FF0000</color>
+    <color name="strIgual3">#FFFB00</color>
+    <color name="strMayor3">#40FF00</color>
+    <color name="mainOscuro">#FF000000</color>
+    <color name="mainClaro">#FFFFFFFF</color>
+    <color name="textosOscuro">#FFFFFFFF</color>
+    <color name="textosClaro">#FF000000</color>
+</resources>
